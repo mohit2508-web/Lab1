@@ -1,0 +1,30 @@
+
+--------------WELCOME YOU To MY CODINGVERSE -----------------------------
+
+Hey there i am mohit jadon ,I'm currently pursuing B.Tech in computer Science from gla university mathura
+and I am a passionate MERN Stack developer with strong command in problem solving and working with various full stack project 
+
+Over the past few years, i have been exploring eeverything from frontend design to backend APIs,and even deployment piplenes using tools like jenkins
+,Docker,and Kubernates.
+
+I love working on real world projects and constantly pushing my limits to learn and grow.
+
+What is work with
+------------------
+Langauages : C,Java,Python,JavaScript
+Frontend :HTML,CSS,TailWind css, React.JavaScript
+Backend:Node.js,Express.js,MongoDB
+DevOps :Git,Github,Jenkins,Docker,Kubernets,Maven,Ansible,AWS EC2
+Core Subjects : OOps, DBMS,OS,REST APIs,Computer Network
+
+
+My projects
+-----------
+1.Portfolio Webiste
+2.MindSyncer -a platform for developers by developers
+
+Achivements
+------------
+-> Solved across 400+ dsa problem on various codeing platform
+-> Maintained 10+ public Github repos that show my real-world work
+
